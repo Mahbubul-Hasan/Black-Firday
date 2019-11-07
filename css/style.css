@@ -5,3 +5,6 @@
 nav {
   background-color: black;
 }
+.waves-light {
+  color: white !important;
+}
