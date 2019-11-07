@@ -66,3 +66,18 @@ smalltext {
   font-family: "Adobe Devanagari";
   font-size: 25px;
 }
+.cover-bgc h2 {
+  width: 100%;
+  height: auto;
+  background-color: #000;
+  color: #9d0208;
+  font-family: "Angryblue";
+  font-size: 240px;
+  margin-bottom: 0;
+  padding-top: 40px;
+}
+.offers h2 {
+  font-family: "Agency FB";
+  font-size: 50px;
+  font-weight: 900;
+}
