@@ -112,3 +112,7 @@ smalltext {
   width: 60px;
   text-align: center;
 }
+.card-text{
+  font-size: 13px;
+  height: 90px;
+}
