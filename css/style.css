@@ -112,7 +112,16 @@ smalltext {
   width: 60px;
   text-align: center;
 }
-.card-text{
+.card-text {
   font-size: 13px;
   height: 90px;
+}
+.btn {
+  margin-top: 10px;
+  width: 100%;
+}
+@media only screen and (max-width: 1024px) {
+  .card-text {
+    height: 115px;
+  }
 }
