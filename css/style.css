@@ -11,3 +11,57 @@ nav {
 .cover-photo {
   width: 100%;
 }
+.count-down {
+  /* height: 1000px; */
+  width: 100%;
+  background-image: url("/img/Abstract-landscape-red-wallpapers.jpg") !important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+}
+
+#clockDiv {
+  font-family: sans-serif;
+  color: #fff;
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 30px;
+}
+#clockDiv > div {
+  padding: 10px;
+  border-radius: 3px;
+  background: #565a5a;
+  display: inline-block;
+}
+#clockDiv div > span {
+  padding: 15px;
+  border-radius: 3px;
+  background: #3f4040;
+  display: inline-block;
+}
+smalltext {
+  padding-top: 5px;
+  font-size: 16px;
+}
+.count-down .time {
+  height: 90px;
+  width: 90px;
+  background-color: #9d0208 !important;
+}
+.count-down .time b {
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.count-down h2 {
+  font-family: "Agency FB";
+  font-size: 50px;
+}
+.count-down strong {
+  font-family: "Adobe Devanagari";
+  font-size: 25px;
+}
