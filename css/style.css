@@ -101,3 +101,14 @@ smalltext {
 .link {
   color: #fff;
 }
+.offer-amount {
+  font-family: "Almagro";
+  position: absolute;
+  top: 1px;
+  right: 16px;
+  font-size: 15px;
+  background-color: red;
+  color: #fff;
+  width: 60px;
+  text-align: center;
+}
