@@ -68,6 +68,21 @@ smalltext {
 }
 /* Card's CSS */
 .over{
-  height: 25px;
+  height: 150px;
   overflow: hidden;
+}
+.header{
+font-family: "Agency FB";
+margin-top: 80px;
+margin-bottom: 35px;
+font-weight: bold;
+/* height: 45px; */
+font-size:60px;
+}
+.foot{
+  background-color: black;
+  margin-top: 20px;
+}
+.link{
+  color: #fff;
 }
