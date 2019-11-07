@@ -65,3 +65,8 @@ smalltext {
   font-family: "Adobe Devanagari";
   font-size: 25px;
 }
+/* Card's CSS */
+.over{
+  height: 25px;
+  overflow: hidden;
+}
